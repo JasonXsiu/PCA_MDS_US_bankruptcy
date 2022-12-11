@@ -1,4 +1,4 @@
-# PCA_MDS_US_bankruptcy
+# High Dimensional Analysis on US bankruptcy 
 # What is this about?
 
 The purpose of this analysis is to conduct a preliminary analysis on a set of US bankruptcy data in order to better understand and potentially categorise different types of bankruptcy. Before this analysis takes place, a brief data description is provided, followed by some data wrangling and exploration to ﬁrst clean the data, and then visualise some of the patterns and characteristics present in it.
